@@ -1,0 +1,15 @@
+Initiative,Hours,Funding Type,Hours,Cost,Status,Comment
+Finance Audit Reporting Standards,73,Operating,73,"$7,006.54",0,
+Operations,6346.58,Operating,6346.58,"$609,144.75",0,
+Teams/365 Deployment,226.5,Operating,226.5,"$21,739.47",0,
+Workforce Management Report Updates,65,Operating,65,"$6,238.70",0,
+Workforce Pipeline Feed Testing,1314.5,Operating,1314.5,"$126,165.71",0,
+Automated Testing,1602.5,Capital,1602.5,"$153,807.95",0,
+Data Lake Production Rollout,0,Capital,0,$0.00,0,
+Data Model Updates,932.5,Capital,932.5,"$89,501.35",0,
+Enterprise Data Quality Enhancements,1847,Capital,1847,"$177,275.06",1,Project Status meeting with Senior Management scheduled for first week of Decemeber
+Identity and Security Management,1285.5,Capital,1285.5,"$123,382.29",0,
+Licensing,213,Capital,213,"$20,443.74",1,Requires direction of Governance to move forward
+Mobile Reporting PoC,78,Capital,78,"$7,486.44",0,
+Network Performance Enhancements,184,Capital,184,"$17,660.32",2,"Project On-Hold, Deferred to 2023"
+Workforce ERP Migration,1417.5,Capital,1417.5,"$136,051.65",1,May require additional resources to model business rules
